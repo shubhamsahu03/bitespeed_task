@@ -9,7 +9,7 @@ Built as part of the [Bitespeed Backend Task](https://bitespeed.notion.site/Bite
 ## 🌐 Live Endpoint
 
 ```
-POST https://<your-deployed-url>/identify
+POST https://bitespeed-identity-aau3.onrender.com/identify
 ```
 
 ---
